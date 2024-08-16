@@ -25,6 +25,12 @@ This simple Python project is an interactive computer quiz game where users are 
 This project is a great way to practice basic Python skills, including handling user input, conditional statements, and loops.
 
 ---
+### Project 2: Python Number Guessing Game
+
+This project is a simple and interactive Number Guessing Game implemented in Python. The game prompts the user to enter a positive integer, which defines the range for a random number to be guessed. The user then attempts to guess the randomly generated number within the specified range. After each guess, the program provides feedback indicating whether the guess was too high, too low, or correct. 
+The game keeps track of the number of guesses taken by the user and displays the total once the correct number is guessed.
+
+---
 
 Explore the full list of projects in the [Projects Directory](https://github.com/Amitverma0509/python_projects).
 
@@ -59,7 +65,15 @@ To get started with any of the projects:
   - Handling user input
   - Conditional statements
   - Loops
-
+ 
+## Project 2: [Python Number Guessing Game](https://github.com/Amitverma0509/python_projects/blob/main/guess_number.py)
+- **Description**: Number guessing game.
+- **Features**:
+  - Validates user input to ensure a positive integer is entered.
+  - Generates a random number within the user-defined range.
+  - Provides feedback on whether the guess is too high or too low.
+  - Tracks the number of guesses made by the user.
+  - Handles non-numeric inputs gracefully without counting them as guesses.
 
 ...and more to come!
 
