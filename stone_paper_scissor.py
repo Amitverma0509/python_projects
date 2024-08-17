@@ -15,6 +15,7 @@ while True:
 
     random_number = random.randint(0,2)
     computer_pick = options[random_number]
+    print("computer pick",computer_pick)
     
 
     if user_pick == "stone" and computer_pick == "scissor":
