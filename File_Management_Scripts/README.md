@@ -1,7 +1,3 @@
-Here’s a simple `README.md` file for your GitHub project:
-
----
-
 # File Management Scripts
 
 This repository contains two Python scripts to perform basic file operations:
